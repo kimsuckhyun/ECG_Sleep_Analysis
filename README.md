@@ -108,3 +108,6 @@ RT를 변수로 설정하여 x축은 RT(s)로, y축은 RT에 2를
 2. .mat의 경로를 조정 후, Data_Setup.ipynb을 실행시켜 데이터셋.pkl파일을 만들어줍니다. 
 3. 데이터셋.pkl의 경로를 조정 후 modeling.ipynb를 실행시킵니다. 
    
+## 결과
+- best vali acc:0.8833
+![image](https://user-images.githubusercontent.com/80832362/263519095-722aceb0-b8d5-4935-9a53-9c1c0991fed7.png)
