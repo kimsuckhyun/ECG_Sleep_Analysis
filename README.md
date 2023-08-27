@@ -1,6 +1,6 @@
 # 심장박동 추정 기법에 따른 머신러닝 기반 졸음 검출
 ### | [Data](https://drive.google.com/drive/folders/1G3M5D2xkpku9Uqs1zffJEhc8pAzf89it?usp=sharing)
-[![Open Tiny-NeRF in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-T-2H9bLqYLtsIc7DJOuwcY_V9UwMy2S/view?usp=drive_link)<br>
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-T-2H9bLqYLtsIc7DJOuwcY_V9UwMy2S/view?usp=drive_link)<br>
 
 ## Setup
 
