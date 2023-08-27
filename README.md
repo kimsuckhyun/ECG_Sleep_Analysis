@@ -1,7 +1,6 @@
 # 심장박동 추정 기법에 따른 머신러닝 기반 졸음 검출
 ### | [Data](https://drive.google.com/drive/folders/1G3M5D2xkpku9Uqs1zffJEhc8pAzf89it?usp=sharing)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-T-2H9bLqYLtsIc7DJOuwcY_V9UwMy2S/view?usp=drive_link)<br>
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1Bkr6tfxxWHAKqj-KQ25vM_YTBdO9mn8g?usp=drive_link)<br>
 ## Setup
 
 코드를 실행하기 위해서는 다음의 Python 3 라이브러리들이 필요합니다. 코드 실행 전에 반드시 설치해 주세요.
