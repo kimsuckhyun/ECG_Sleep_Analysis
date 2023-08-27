@@ -51,7 +51,7 @@ C-1509-074-704)에 동의했고, 졸음 검출 실험을 진행하기
   - sync_data_bio : ECG신호, 즉 심전도 데이터를 비롯한 중심부 혈압계, 호흡 등등 다양한 데이터가 포함된 프레임
 ---  
 ## Data_Setup
-<img src='imgs/pipeline.jpg'/>
+![image](https://user-images.githubusercontent.com/80832362/263506489-a15ba07e-6786-49ca-b1a6-05c6893882c3.png)
 
 
 #####  반응시간 (Reaction Time, RT)
