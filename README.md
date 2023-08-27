@@ -26,7 +26,7 @@ pip install keras matplotlib numpy imageio configargparse scikit-learn pandas to
 ```
 
 ---
-<img src='imgs/pipeline.jpg'/>
+![image](https://user-images.githubusercontent.com/80832362/263506953-7f5f3cb6-a0e6-4544-be60-40c1d487a7ab.png)
 
 ## DataSet
 ### Data acquisition method
