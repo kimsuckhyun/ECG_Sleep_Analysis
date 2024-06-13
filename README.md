@@ -1,4 +1,4 @@
-# 심장박동 추정 기법에 따른 머신러닝 기반 졸음 검출
+# 심장박동 추정 기법에 따른 CNN 기반 졸음 검출
 ### | [Data](https://drive.google.com/drive/folders/1G3M5D2xkpku9Uqs1zffJEhc8pAzf89it?usp=sharing)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1Bkr6tfxxWHAKqj-KQ25vM_YTBdO9mn8g?usp=drive_link)<br>
 ## Setup
